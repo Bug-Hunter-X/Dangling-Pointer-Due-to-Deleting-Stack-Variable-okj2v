@@ -1,0 +1,1 @@
+int main() { int *ptr = new int; *ptr = 10; //... use *ptr ... delete ptr; ptr = nullptr; return 0; }
